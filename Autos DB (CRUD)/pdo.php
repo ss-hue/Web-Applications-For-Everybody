@@ -1,3 +1,3 @@
 <?php
-$pdo = new PDO('mysql:host=localhost;port=8888;dbname=AutosCrud', 'root','');
+$pdo = new PDO('mysql:host=localhost;port=XXXX;dbname=AutosCrud', 'root','');
 ?>
